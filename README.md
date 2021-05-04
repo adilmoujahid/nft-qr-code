@@ -13,5 +13,5 @@ _ Requires ```qrcode```, ```numpy```, and ```Pillow``` libraries.
 ```python make_qr_code.py <YOUR STRING>```
 
 <div style="display:block;margin:auto;height:500%;width:500%">
-  <img src="nft_qr.gif">
+  <img src="./nft_qr.png">
 </div>
