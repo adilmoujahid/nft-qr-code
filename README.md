@@ -12,6 +12,4 @@ _ Requires ```qrcode```, ```numpy```, and ```Pillow``` libraries.
 
 ```python make_qr_code.py <YOUR STRING>```
 
-<div tyle="width:128px;height:128px;">
-  <img src="./nft_qr.png">
-</div>
+<img src="./nft_qr.png", style="width:128px;height:128px;">
