@@ -6,6 +6,8 @@ Source code for generating a 29x29 QR code that encodes a string of up to 35 cha
     <img src="./nft_qr.png">
 </div>
 
+![](nft_qr.png | width=100)
+
 # Dependencies
 
 - Works with ```Python 3.6``` 
